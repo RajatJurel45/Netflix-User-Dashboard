@@ -11,15 +11,6 @@ This Power BI project presents a comprehensive analysis of Netflix user data, of
 - 💳 Subscription Insights including Plan Types and Revenue  
 - 🧭 Interactive Filters & Slicers for Year, Country, and Genre  
 - 💡 Clean and responsive UI/UX Design for clarity and usability
-  
-## 📁 Repository Contents
-
-| File/Folder                    | Description                               |
-|-------------------------------|-------------------------------------------|
-| `Netflix User Dashboard.pbix` | Power BI report file                      |
-| `Dataset/`                    | Contains raw dataset used for the report |
-| `Screenshots/`                | *(Optional)* Add images of your dashboard |
-| `README.md`                   | Project documentation (this file)         |
 
 ## 📂 Dataset Source
 
