@@ -2,6 +2,8 @@
 
 This Power BI project presents a comprehensive analysis of Netflix user data, offering valuable insights into user behavior, content preferences, and subscription patterns. The dashboard is designed for both business and analytical users to explore data visually and interactively.
 
+![User Dashboard](https://github.com/user-attachments/assets/18fae058-6234-449b-a26b-6864956b9464)
+
 
 ## 📊 Dashboard Features
 
